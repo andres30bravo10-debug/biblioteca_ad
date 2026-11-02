@@ -1,0 +1,4 @@
+src/main/resources/db.properties
+
+# Project exclude paths
+/target/

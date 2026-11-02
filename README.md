@@ -17,3 +17,6 @@ Proyecto de la asignatura de Acceso a Datos (DAM).
 1. Crear la base de datos `biblioteca_ad` y la tabla `libro` en PostgreSQL.
 2. Copiar `db.properties.example` a `src/main/resources/db.properties` y poner tu usuario y contraseña.
 3. Ejecutar `Main` o `CrudDemo`.
+
+   ## Resultado
+   ![Salida del CrudDemo](docs/crud-demo.png)

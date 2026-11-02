@@ -19,4 +19,5 @@ Proyecto de la asignatura de Acceso a Datos (DAM).
 3. Ejecutar `Main` o `CrudDemo`.
 
    ## Resultado
-   ![Salida del CrudDemo](docs/crud-demo.png)
+   ![Salida del CrudDemo]()<img width="1742" height="687" alt="image" src="https://github.com/user-attachments/assets/3309dbc8-6595-427f-af66-03ecbec7bbf4" />
+
